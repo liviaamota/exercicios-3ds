@@ -1,0 +1,21 @@
+{
+  "name": "exercicios-3ds",
+  "version": "1.0.0",
+  "description": "Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviaamota/exercicios-3ds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/liviaamota/exercicios-3ds/issues"
+  },
+  "homepage": "https://github.com/liviaamota/exercicios-3ds#readme"
+}
