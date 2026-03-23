@@ -1,0 +1,19 @@
+{
+  "name": "projeto2-sistema-de-cadastro-de-tarefas",
+  "version": "1.0.0",
+  "description": "Você foi contratado para desenvolver parte de um sistema simples de **gerenciamento de tarefas**. Esse sistema permitirá registrar tarefas e consultar quantas tarefas existem.",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
